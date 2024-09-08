@@ -14,7 +14,7 @@ My success as a student can be attributed to a blend of qualities – independen
 ---
 
 
-### 2. Please describe any unique characteristics or distinctive qualities of your school and your special interests, ability in academic areas during secondary school period.
+## 2. Please describe any unique characteristics or distinctive qualities of your school and your special interests, ability in academic areas during secondary school period.
 Unique characteristics or distinctive qualities of my school:
 
 
@@ -36,7 +36,7 @@ In conclusion, my journey with chess has been a transformative odyssey, shaping 
 
 ---
 
-### 4. Please explain any of your extracurricular activities or work experience.
+## 4. Please explain any of your extracurricular activities or work experience.
 Teaching others makes us stronger. With this in mind, I became a co-founder of the Olympiad Programming Club at my school. The idea originally belonged to our teacher but materialized only after his departure. My close friend and I took on all the responsibilities, evenly distributing the workload between us. The key role during its creation was to pass on the knowledge we already possessed because no one else in our school could mentor newcomers. The ultimate goal was to educate our students to a level where, after our departure, they could confidently achieve commendable results in international and national competitions.
 
 As a co-founder, part of my responsibilities involved overseeing the club 2-3 times a week and, when needed, explaining complex topics that the founder himself couldn't articulate clearly. Having been in a similar club before, which later disbanded because the teacher and older students left the school, I was able to recognize the advantages of such a community, but now from the perspective of a teacher, co-founder, and simply a more experienced student. To explain certain complex concepts in a comprehensible manner—concepts I didn't grasp at that age due to the absence of someone who could explain everything in detail and clearly—I understood how important it is to organize everything correctly and explain it clearly. To achieve this, I had to carefully consider the lesson plan to ensure that the material was fully understood.
@@ -47,7 +47,7 @@ In conclusion, this journey as a co-founder, teacher, and leader of the programm
 
 ---
 
-### 5. Please explain your purpose in studying at UNIST and your plans for study.  Be as specific as you can regarding your academic interests and the curriculum you expect to follow in achieving your goals.
+## 5. Please explain your purpose in studying at UNIST and your plans for study.  Be as specific as you can regarding your academic interests and the curriculum you expect to follow in achieving your goals.
 
 Study plan: My journey in the world of programming
 
