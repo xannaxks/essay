@@ -1,4 +1,4 @@
-# essay### 1. Please explain how you have overcome financial or social difficulties, physical or emotional adversities which might have hindered you from studying during middle and high school.
+### 1. Please explain how you have overcome financial or social difficulties, physical or emotional adversities which might have hindered you from studying during middle and high school.
 
 
 Throughout my middle and high school years, I encountered numerous hurdles; yet, my unwavering love for coding consistently guided me through tough times. Financial constraints posed a significant obstacle, impacting the quality of my education. In response, I actively pursued scholarships and honed my coding skills, ultimately breaking down financial barriers while significantly improving my programming expertise – an asset for my future endeavors.
